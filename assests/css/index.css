@@ -19,7 +19,7 @@ h1 {
 h2 {
     font-size: 24px;
 }
-#container {
+.container {
     width: 1024px;  
     margin: 0 auto;
 }
